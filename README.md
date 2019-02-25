@@ -4,7 +4,7 @@
 Python is my favorite language for Data Science. In this repository, I plan to share my knowledge and resources with the crowd. I intend to focus on Data Cleaning & Manipulation, Visualization and Modelling. 
 
 ## Table of Contents
-* [ Visualization] (#Visualization)
+* [Visualization] (#Visualization)
 
 
 ### Visualization
