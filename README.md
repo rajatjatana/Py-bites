@@ -7,4 +7,4 @@ Python is my choice of language. Sometimes I use it for my work, sometimes just 
 |Programming Examples|
 |---|
 |[**Plotly**](Plotly.ipynb): Shows some interactive visualizations using plotly.|
-|[**Scrapping Data from Excel**]('Scrapping_Data_from_Excel.ipynb'): Shows some interactive visualizations using plotly.|
+|[**Scrapping Data from Excel**](Scrapping_Data_from_Excel.ipynb): Shows some interactive visualizations using plotly.|
