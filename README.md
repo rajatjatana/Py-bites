@@ -11,4 +11,4 @@ Python is my choice of language. Sometimes I use it for my work, sometimes just 
 
 [**Spelling Correction Algorithms**](Spelling_Correction_Algorithms.ipynb): interesting approach to get rid of wrong spellings in any text. Now, extract and analyse the text data with ease.
 
-[**Topic Modelling for classifying text reviews**] (Segregate text reviews into different topics.ipynb)
+[**Topic Modelling for classifying text reviews**] (Segregate_text_reviews_into_different_topics.ipynb)
